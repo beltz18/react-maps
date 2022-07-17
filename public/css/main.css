@@ -4,6 +4,11 @@
   box-sizing: border-box;
 }
 
+body {
+  width: 100vw;
+  height: 100vh;
+}
+
 h1 {
   color: rgba(26, 9, 100, 0.9);
 }
